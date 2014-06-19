@@ -47,12 +47,12 @@ ENDFUNCTION
 
 (a) What type of data is **users**? **(1 mark)**
 ```
-answer here
+Variable
 ```
 
 (b) What type of data is returned by this function? **(1 mark)**
 ```
-answer here
+Either True or False
 ```
 
 ##Errors
