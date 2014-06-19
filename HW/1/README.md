@@ -23,15 +23,15 @@ There are 30 marks available and are awarded grades as follows:
 ###1 - Why do we represent data using binary when using computers *(1 mark)*
 
 ```
-answer here
+Because computers can only read 1's and 0's as on or off.
 ```
 ###2 - How would we represent the number 147 in binary? *(1 mark)*
 ```
-answer here
+001100010011010000110111
 ```
 ###3 - Can you convert the hexadecimal number **b5** to denary, there is a mark for you working. *(2 marks)*
 ```
-answer here
+181
 ```
 ###4 - Here is a function written is **pseudocode**.
 ```
@@ -69,22 +69,22 @@ line7:		OUTPT mean
 
 (a) On which line is there a **syntax** error? **(1 mark)**
 ```
-answer here
+line7
 ```
 
 (b) What is meant by a **syntax** error? **(1 mark)**
 ```
-answer here
+where the computer doesn;t understand what to do.
 ```
 
 (c) Identify a logical error in the program and suggest how this might be fixed. **(2 marks)**
 ```
-answer here
+where the computer runs the program but is different from what the programmer intended.
 ```
 
 (d) Describe and give an example of the 3rd kind of programming error. **(2 marks)**
 ```
-answer here
+run-time error, when the computer tries to complete the program but crashes during it.
 ```
 
 ##Algortithms
@@ -98,27 +98,27 @@ answer here
 
 **Bus Topology (6 marks)**
 ```
-Describe:
+Describe: In a bus topology, all the servers, workstations and printers are joined together to one cable (the bus).At the end of each cable, there is a terminator fitted to stop signals reflecting back down the bus.
 
-Advantages:
+Advantages: Very cheap and easy to install.
 
-Disadvantages:
+Disadvantages: Every workstation on the network sees all of the data on the network making this a security risk.
 ```
 
 **Ring Topology (6 marks)**
 ```
-Describe:
+Describe: In a ring network each device e.g. printer, workstation and server is connected to 2 other devices, this creates a ring for signals to travel around.Every packet of dara on that network travels in only one directions and each device revieves each packet in the order of the circle until the destination device reveives the data.
 
-Advantages:
+Advantages: This type of network can transfer data very quickly, even if there is a a lot of devices conected since the data only tracels in one direction, so there will not be any clashes in data.
 
-Disadvantages:
+Disadvantages: If the main cable were to fail or break or even any of the devices have a fault, the entire network would crash.
 ```
 
 **Star Topology (6 marks)**
 ```
-Describe:
+Describe: In a star network, every device in the network has its own cable that connects to a hub or switch. A switch only sends a acket of data to the destination device, however a hub sends every packet of data to every device.
 
-Advantages:
+Advantages: High performance and if one cable fails the other cables will still work.
 
-Disadvantages:
+Disadvantages: Very expensive, costs a lo of money with extra hardware and if one switch or hub fails all of the other devices will have no network connection.
 ```
