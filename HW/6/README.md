@@ -26,11 +26,12 @@ Once you can explain the solution you might try to write a computer program to s
 
 ####How many trips from shore to shore must the boat take?
 ```
-answer here
+100
 ```
 ####Explain you algorithm here:
 ```
-answer here
+The 2 kids take the boat to the other side of the shore, and 1 child take the boat back leaving the other behind.
+A soldier takes the boat to the other side and the kid with the soldier takes the boat back. This is repeated 25 times meaning a total of 100 trips to get all 25 soldiers to the other side of the shore with the kids in possesion of their boat.
 ```
 
 ##Extension
@@ -38,14 +39,15 @@ Can you represent the algorithm for this problem using a computer program (any l
 eg you could show each step in the algorithm using text:
 
 ```
-Step 25       SSSSSScc..............SSSSSSSSSSSSSSSSSSS
+1.) 2 children take the boat to the shore.
+2.) Take 1 child back.
+3.) 1 soldier takes the boat to shore.
+4.) 1 child takes the boat back to shore.
+x 25 = 100 times   
+```
+    
 
-
-c = child
-S = solider
-```       
-
-For text based programs like pytohn you should create a new file in you repository
+For text based programs like python you should create a new file in you repository
 ![Add new](../../Resources/new.png)
 
 For anything else (eg scratch), email you teacher with the file and say you've done so in the comments.
